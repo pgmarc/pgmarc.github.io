@@ -1,8 +1,15 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Knowledge DB
+description: Experienced gathered in tech
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://pgmarc.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+callouts:
+  warning:
+    color: red
+  note:
+    color: purple
+  highlight:
+    color: yellow
+  important:
+    color: blue
